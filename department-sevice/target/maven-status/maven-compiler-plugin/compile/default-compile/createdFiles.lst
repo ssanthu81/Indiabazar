@@ -1,0 +1,5 @@
+com/indiabazar/department/controller/CustomerController.class
+com/indiabazar/department/repository/CustomerRepository.class
+com/indiabazar/department/service/CustomerService.class
+com/indiabazar/department/entity/Department.class
+com/indiabazar/department/DepartmentSeviceApplication.class
